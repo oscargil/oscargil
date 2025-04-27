@@ -1,7 +1,5 @@
 # Hi there, I'm Oscar Gil Sotillo 👋
 
-<img src="[Optional: Link to a banner image if you have one]" alt="Banner Image">
-
 ## About Me
 
 I'm a results-oriented Software Engineer with a strong background in backend development using Python and the Django REST Framework. With proven experience in optimizing API performance and technical collaboration in eLearning environments, I am now transitioning and expanding my expertise into the exciting fields of **Artificial Intelligence and Big Data**.
