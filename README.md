@@ -46,6 +46,29 @@ I am actively deepening my knowledge through the **Specialization Course - Artif
 * AI Models, Heuristic Search, and Optimization
 * Robotics and Expert Systems
 
+## Projects Portfolio
+
+Here are some of the projects I'm working on or have completed, showcasing my skills in Software Engineering and AI/ML:
+
+* **[AI Classification API with Django & Docker](https://github.com/yourusername/ai-classification-api)**
+    * *Description:* Developed a production-ready REST API that serves real-time predictions for Iris flower classification. The API is built with Django REST Framework and uses a Logistic Regression model trained on the classic Iris dataset. The project demonstrates the complete ML pipeline from model training to API deployment, following software engineering best practices.
+    * *Key Features:*
+        * RESTful API with Django REST Framework
+        * Machine Learning pipeline with scikit-learn
+        * Containerized deployment with Docker
+        * Comprehensive API documentation
+        * Test suite and CI/CD ready
+    * *Tech Stack:* 
+        * Backend: Python 3.12, Django 5.0
+        * ML: scikit-learn, NumPy, Pandas
+        * Infrastructure: Docker, Docker Compose
+        * Development: Git, REST APIs
+    * *Achievements:*
+        * Implemented a scalable architecture for ML model serving
+        * Achieved 95%+ accuracy on Iris classification
+        * Containerized the application for consistent deployment
+        * Created comprehensive documentation and testing suite 
+
 ## Contact Me
 
 * **Email:** [ogilsot@gmail.com](mailto:ogilsot@gmail.com)
