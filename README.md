@@ -46,25 +46,6 @@ I am actively deepening my knowledge through the **Specialization Course - Artif
 * AI Models, Heuristic Search, and Optimization
 * Robotics and Expert Systems
 
-## Projects Portfolio
-
-Here are some of the projects I'm working on or have completed, showcasing my skills in Software Engineering and AI/ML:
-
-* **[Project Title: AI Classification API with Django]** ([Link to Repo](#your-repo-link-here))
-    * *Description:* Developed a REST API using Django REST Framework to serve predictions from a \[Specify ML Model, e.g., Naive Bayes] model trained on \[Mention Dataset]. Showcases integration of ML models into backend systems.
-    * *Tech Stack:* Python, Django, Scikit-learn, Docker (Optional).
-* **[Project Title: NLP Sentiment Analysis Tool]** ([Link to Repo](#your-repo-link-here))
-    * *Description:* Implemented a tool for sentiment analysis on text data using \[Specify Technique/Library, e.g., Scikit-learn, NLTK, basic Transformers]. Demonstrates NLP preprocessing and classification.
-    * *Tech Stack:* Python, Pandas, \[NLP Library].
-* **[Project Title: ML Algorithm Comparison]** ([Link to Repo](#your-repo-link-here))
-    * *Description:* Compared the performance of different supervised learning algorithms (e.g., k-NN, SVM, Decision Trees) on the \[Mention Dataset] dataset for \[Classification/Regression]. Evaluated using \[Mention Metrics].
-    * *Tech Stack:* Python, Scikit-learn, Pandas, Matplotlib.
-* **[Project Title: Basic Deep Learning with Keras/TensorFlow]** ([Link to Repo](#your-repo-link-here))
-    * *Description:* Built and trained a simple Neural Network (MLP) for \[Specify Task, e.g., image classification on MNIST] using Keras/TensorFlow.
-    * *Tech Stack:* Python, TensorFlow, Keras, NumPy.
-
-*(Add more projects as you complete them!)*
-
 ## Contact Me
 
 * **Email:** [ogilsot@gmail.com](mailto:ogilsot@gmail.com)
