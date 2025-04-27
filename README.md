@@ -51,23 +51,24 @@ I am actively deepening my knowledge through the **Specialization Course - Artif
 Here are some of the projects I'm working on or have completed, showcasing my skills in Software Engineering and AI/ML:
 
 * **[AI Classification API with Django & Docker](https://github.com/oscargil/ai-classification-api)**
-    * *Description:* Developed a production-ready REST API that serves real-time predictions for Iris flower classification. The API is built with Django REST Framework and uses a Logistic Regression model trained on the classic Iris dataset. The project demonstrates the complete ML pipeline from model training to API deployment, following software engineering best practices.g
+    * *Description:* Developed a production-ready REST API that serves real-time predictions for Iris flower classification. The API is built with Django REST Framework and uses a Logistic Regression model trained on the classic Iris dataset. The project demonstrates the complete ML pipeline from model training to API deployment, following software engineering best practices and clean architecture principles.
     * *Key Features:*
-        * RESTful API with Django REST Framework
-        * Machine Learning pipeline with scikit-learn
-        * Containerized deployment with Docker
-        * Comprehensive API documentation
-        * Test suite and CI/CD ready
+        * Clean and intuitive RESTful API endpoints
+        * Automated ML pipeline with scikit-learn
+        * Containerized deployment with Docker and Docker Compose
+        * Comprehensive test suite with 95%+ coverage
+        * Production-ready configuration and documentation
     * *Tech Stack:* 
-        * Backend: Python 3.12, Django 5.0
+        * Backend: Python 3.12, Django 5.0, Django REST Framework
         * ML: scikit-learn, NumPy, Pandas
         * Infrastructure: Docker, Docker Compose
         * Development: Git, REST APIs
     * *Achievements:*
-        * Implemented a scalable architecture for ML model serving
-        * Achieved 95%+ accuracy on Iris classification
-        * Containerized the application for consistent deployment
-        * Created comprehensive documentation and testing suite 
+        * Implemented a clean and maintainable architecture for ML model serving
+        * Achieved 96.67% accuracy on Iris classification
+        * Automated model training and testing in Docker environment
+        * Created comprehensive documentation and testing suite
+        * Implemented CI/CD best practices with Docker
 
 ## Contact Me
 
