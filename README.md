@@ -50,8 +50,8 @@ I am actively deepening my knowledge through the **Specialization Course - Artif
 
 Here are some of the projects I'm working on or have completed, showcasing my skills in Software Engineering and AI/ML:
 
-* **[AI Classification API with Django & Docker](https://github.com/yourusername/ai-classification-api)**
-    * *Description:* Developed a production-ready REST API that serves real-time predictions for Iris flower classification. The API is built with Django REST Framework and uses a Logistic Regression model trained on the classic Iris dataset. The project demonstrates the complete ML pipeline from model training to API deployment, following software engineering best practices.
+* **[AI Classification API with Django & Docker](https://github.com/oscargil/ai-classification-api)**
+    * *Description:* Developed a production-ready REST API that serves real-time predictions for Iris flower classification. The API is built with Django REST Framework and uses a Logistic Regression model trained on the classic Iris dataset. The project demonstrates the complete ML pipeline from model training to API deployment, following software engineering best practices.g
     * *Key Features:*
         * RESTful API with Django REST Framework
         * Machine Learning pipeline with scikit-learn
