@@ -91,6 +91,6 @@ Here are some of the projects I'm working on or have completed, showcasing my sk
 ## Contact Me
 
 * **Email:** [ogilsot@gmail.com](mailto:ogilsot@gmail.com)
-* **LinkedIn:** [linkedin.com/in/oscarwebdeveloper](https://linkedin.com/in/oscarwebdeveloper)
+* **LinkedIn:** [linkedin.com/in/oscargilsotillo](https://linkedin.com/in/oscargilsotillo)
 
 Feel free to reach out if you'd like to collaborate or discuss technology and AI!
